@@ -28,5 +28,4 @@ License
 
 MIT
 
-## Author
-[rimekod](https://rimekod.com)
+
